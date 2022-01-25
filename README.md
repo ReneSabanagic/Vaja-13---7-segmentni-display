@@ -1,1 +1,0 @@
-# Vaja-13---7-segmentni-display
